@@ -10,6 +10,8 @@ controls: :relaxed:
 * move around - right mouse button
 * zoom in/out - scroll wheel
 
+You can pass number of particles as argument when invoking program. :fire:
+
 For Linux users there is a Makefile which should work out of the box  
 if dependencies are installed via package manager (apt, pacman).
 ### demo
